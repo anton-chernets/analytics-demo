@@ -5,6 +5,6 @@ Highcharts Demos (JS) + MySql(mysqli) vs PHP
 https://www.highcharts.com/demo
 
 # Иллюстрация
-![статистика по всем годам](public/images/analytics.png)
+![статистика по всем годам](img/analytics.png)
 
-![мобильная версия](public/images/analytics-mobile.png)
+![мобильная версия](img/analytics-mobile.png)
