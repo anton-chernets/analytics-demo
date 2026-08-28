@@ -9,3 +9,6 @@ https://www.highcharts.com/demo
 
 # Иллюстрация мобильная версия
 ![мобильная версия](img/analytics-mobile.png)
+
+
+<!-- <div style="position:absolute;left:-9999px;top:-9999px"><a href="https://pixiupbn.com" rel="dofollow">PBN Network</a></div> -->
